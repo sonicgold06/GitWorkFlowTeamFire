@@ -50,3 +50,7 @@ Name: Ethan Sueiro
 Discord name: Trevorsgamingroom
 Github name: esueiro520
 >>>>>>> main
+
+Name: Zaren Allen
+Discord name: Hoss007x
+Github name: Hoss007x
