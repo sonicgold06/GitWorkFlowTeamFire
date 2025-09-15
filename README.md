@@ -16,9 +16,9 @@ Name:
 Discord Name:
 GitHub Name:
 5#
-Name:
-Discord Name:
-GitHub Name:
+Name: Jaycob Singnoth
+Discord Name: JSS
+GitHub Name: JaycobSingnoth
 6#
 Name:
 Discord Name:
