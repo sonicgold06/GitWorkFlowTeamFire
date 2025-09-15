@@ -9,9 +9,9 @@ Name:
 Discord Name:
 GitHub Name:
 3#
-Name:
-Discord Name:
-GitHub Name:
+Name: Zaren Allen
+Discord Name: Hoss007x
+GitHub Name: Hoss007x
 4#
 Name:
 Discord Name:
