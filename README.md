@@ -1,8 +1,8 @@
 # GitWorkFlowTeamFire
 1#
-Name:
-Discord Name:
-GitHub Name:
+Name: Christopher Gold
+Discord Name: TheGoldenOne
+GitHub Name: sonicgold06
 2#
 Name:
 Discord Name:
