@@ -23,3 +23,7 @@ Github name: esueiro520
 Name: Zaren Allen
 Discord name: Hoss007x
 Github name: Hoss007x
+
+Name: Adam Garcia
+Discord name: nugegt
+Github name: Adamg159
