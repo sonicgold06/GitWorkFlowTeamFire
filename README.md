@@ -7,3 +7,7 @@ Github name: Mathurin101
 Name: Jaycob Singnoth
 Discord name: JSS
 Github name: JaycobSingnoth
+
+Name: Ethan Sueiro
+Discord name: Trevorsgamingroom
+Github name: esueiro520
